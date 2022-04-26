@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-[Imgur](https://i.imgur.com/msh1W5S.jpg?2)
+![Me](https://i.imgur.com/msh1W5S.jpg?2)
 
 
 ![Jana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jana-P1&theme=dracula&show_icons=true)
