@@ -8,7 +8,7 @@
 ## A bit about me:
 
 
-During the quarantine, I jumped on the bandwagon and resigned from my career in financial services. Because of my background in data analysis and R Cmdr, software engineering seemed as if it would be a good fit. A lot of the data science skills I acquired have transferred well into this new career pursuit. I have greatly enjoyed struggling through the challenges and learning so much along the way. 
+During the quarantine, I jumped on the bandwagon, resigned from my career in financial services, and pivoted into something very different... software engineering. Turns out, I really love it! It has been an intense yet enjoyable experience diving head first into this new adventure and unleashing my creative side. When I make spare time, I am an IronMan. I finished my first IronMan in September 2021 and plan to do many more.
 
 
 
